@@ -1,4 +1,7 @@
-===domainbase
+[![Build Status](https://travis-ci.org/whackashoe/domainbase.svg?branch=master)](https://travis-ci.org/whackashoe/domainbase.svg?branch=master)
+
+domainbase
+===
 
 Get the base domain of a url in php.
 
@@ -16,6 +19,15 @@ $dbase->basename("http://images.google.co.uk/somecrap?here=adasdasd");
 
 easy!
 
+Installation
+===
+
+`require: "whackashoe/domainbase": "dev-master"`
+
+License
+===
 MIT license (for u lovely lawyery programmer types)
+
+
 
 Pull requests appreciated; if you have any questions please open an issue, thanks.
